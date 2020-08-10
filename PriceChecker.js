@@ -313,5 +313,4 @@ client.on( 'message', message =>
 							} );
 							break;
 					}
-			} ); client.login(
-			'NzQxMjUxMjAwNDQzMjE5OTY5.Xy01-Q.LK4fRs9f9wabY9Pepv9aHwMBBrM' );
+			} ); client.login('INSERT KEY HERE' );
